@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RedifyProyect</string>
+    <string name="News">Novedades</string>
+    <string name="Favorite_list">Lista de Favoritos</string>
+    <string name="recomed_list">Recomendados</string>
+    <string name="best_sellers">Lo más leído</string>
+    <string name="all_list">Toda la lista</string>
+    <string name="back">Volver</string>
+
+</resources>
